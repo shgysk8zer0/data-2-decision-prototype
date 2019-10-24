@@ -1,3 +1,7 @@
 #sidebar {
 	grid-area: sidebar;
 }
+
+#sidebar > * {
+	margin-top: 2rem;
+}

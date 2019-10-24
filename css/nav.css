@@ -4,3 +4,7 @@
 	font-size: 1.2em;
 	justify-content: space-around;
 }
+
+#nav svg {
+	font-size: 3rem;
+}

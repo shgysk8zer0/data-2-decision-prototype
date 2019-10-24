@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Data2DecisionLogic",
+  "short_name": "D2D",
   "version": "1.0.0",
   "start_url": "/",
   "lang": "en",
-  "description": "",
+  "description": "Prototype site for Data2Decision Login ",
   "icons": [{
     "src": "/img/favicon.svg",
     "sizes": "any",

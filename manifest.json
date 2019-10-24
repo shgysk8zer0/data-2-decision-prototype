@@ -23,8 +23,7 @@
     "sizes": "wxh",
     "type": "image/*"
   }],
-  "theme_color": "#528ff9",
-  "background_color": "#fefefe",
+  "theme_color": "#185a93",
   "display": "standalone",
   "developer": {
 		"name": "Chris Zuber",
